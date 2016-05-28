@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ProgramAnalysis.Helpers;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -22,6 +23,13 @@ namespace ProgramAnalysis
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
+
+
+            #region config
+            Utility.pathMatlab = HttpContext.Current.Server.MapPath("~/MATLAB/");
+            Utility.LogPath = HttpContext.Current.Server.MapPath("~/Logs/");
+            Utility.PathImage = HttpContext.Current.Server.MapPath("~/App_Data/ImageData");
+            #endregion
         }
     }
 }
