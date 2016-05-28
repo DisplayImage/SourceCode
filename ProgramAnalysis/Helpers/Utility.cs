@@ -28,6 +28,7 @@ namespace ProgramAnalysis.Helpers
         public static string pathMatlab = string.Empty;
         public static string LogPath = String.Empty;
         public static string PathImage = string.Empty;
+        public static int NumDeliveryVehicles = 5;
 
         #region Enum
         public enum TypeData

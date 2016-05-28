@@ -129,7 +129,9 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Helpers\CustomLog.cs" />
+    <Compile Include="Helpers\Helper.cs" />
     <Compile Include="Helpers\ImageModel.cs" />
+    <Compile Include="Helpers\OrdersAssign.cs" />
     <Compile Include="Helpers\Utility.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
