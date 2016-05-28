@@ -27,6 +27,5 @@ D:\Data\Person\SourceCode\ProgramAnalysis\ProgramAnalysis\bin\System.Web.Razor.x
 D:\Data\Person\SourceCode\ProgramAnalysis\ProgramAnalysis\bin\System.Web.WebPages.xml
 D:\Data\Person\SourceCode\ProgramAnalysis\ProgramAnalysis\bin\System.Web.WebPages.Deployment.xml
 D:\Data\Person\SourceCode\ProgramAnalysis\ProgramAnalysis\bin\System.Web.WebPages.Razor.xml
-D:\Data\Person\SourceCode\ProgramAnalysis\ProgramAnalysis\obj\Debug\ProgramAnalysis.csprojResolveAssemblyReference.cache
 D:\Data\Person\SourceCode\ProgramAnalysis\ProgramAnalysis\obj\Debug\ProgramAnalysis.dll
 D:\Data\Person\SourceCode\ProgramAnalysis\ProgramAnalysis\obj\Debug\ProgramAnalysis.pdb
