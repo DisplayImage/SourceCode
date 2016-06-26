@@ -1,0 +1,17 @@
+E:\Projects\ExifMetadata\ExifMetadata\bin\Debug\ExifMetadata.dll
+E:\Projects\ExifMetadata\ExifMetadata\bin\Debug\ExifMetadata.pdb
+E:\Projects\ExifMetadata\ExifMetadata\obj\Debug\ExifMetadata.dll
+E:\Projects\ExifMetadata\ExifMetadata\obj\Debug\ExifMetadata.pdb
+E:\Projects\ProgramAnalysis\ExifMetadata\bin\Debug\ExifMetadata.dll
+E:\Projects\ProgramAnalysis\ExifMetadata\bin\Debug\ExifMetadata.pdb
+E:\Projects\ProgramAnalysis\ExifMetadata\obj\Debug\ExifMetadata.dll
+E:\Projects\ProgramAnalysis\ExifMetadata\obj\Debug\ExifMetadata.pdb
+E:\Tham Khảo\LocalAccountsApp-master\ExifMetadata\bin\Debug\ExifMetadata.dll
+E:\Tham Khảo\LocalAccountsApp-master\ExifMetadata\bin\Debug\ExifMetadata.pdb
+E:\Tham Khảo\LocalAccountsApp-master\ExifMetadata\obj\Debug\ExifMetadata.dll
+E:\Tham Khảo\LocalAccountsApp-master\ExifMetadata\obj\Debug\ExifMetadata.pdb
+E:\Projects\SourceCode\ExifMetadata\bin\Debug\ExifMetadata.dll
+E:\Projects\SourceCode\ExifMetadata\bin\Debug\ExifMetadata.pdb
+E:\Projects\SourceCode\ExifMetadata\obj\Debug\ExifMetadata.csprojResolveAssemblyReference.cache
+E:\Projects\SourceCode\ExifMetadata\obj\Debug\ExifMetadata.dll
+E:\Projects\SourceCode\ExifMetadata\obj\Debug\ExifMetadata.pdb

@@ -1,0 +1,130 @@
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\LocalAccountsApp.dll.config
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\LocalAccountsApp.dll
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\LocalAccountsApp.pdb
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\Antlr3.Runtime.dll
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\EntityFramework.dll
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\EntityFramework.SqlServer.dll
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\ExifMetadata.dll
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\Microsoft.Owin.dll
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\Microsoft.Owin.Security.dll
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\Microsoft.Owin.Security.Google.dll
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\Microsoft.Web.Infrastructure.dll
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\Newtonsoft.Json.dll
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\Owin.dll
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\System.Net.Http.Formatting.dll
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\System.Web.Helpers.dll
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\System.Web.Http.dll
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\System.Web.Http.Owin.dll
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\System.Web.Http.WebHost.dll
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\System.Web.Mvc.dll
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\System.Web.Optimization.dll
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\System.Web.Razor.dll
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\System.Web.WebPages.Deployment.dll
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\System.Web.WebPages.dll
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\System.Web.WebPages.Razor.dll
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\WebGrease.dll
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\ExifMetadata.pdb
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\Antlr3.Runtime.pdb
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\Microsoft.Owin.xml
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\Microsoft.Owin.Security.xml
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\Microsoft.Owin.Security.Google.xml
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\Newtonsoft.Json.xml
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\System.Net.Http.Formatting.xml
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\System.Web.Helpers.xml
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\System.Web.Http.xml
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\System.Web.Http.Owin.xml
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\System.Web.Http.WebHost.xml
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\System.Web.Mvc.xml
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\System.Web.Razor.xml
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\System.Web.WebPages.xml
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\System.Web.WebPages.Deployment.xml
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\System.Web.WebPages.Razor.xml
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\System.Web.Optimization.xml
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\EntityFramework.xml
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\EntityFramework.SqlServer.xml
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\obj\Debug\ProgramAnalysis.csprojResolveAssemblyReference.cache
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\obj\Debug\LocalAccountsApp.dll
+E:\Tham Khảo\LocalAccountsApp-master\ProgramAnalysis\obj\Debug\LocalAccountsApp.pdb
+E:\Projects\SourceCode\ProgramAnalysis\bin\LocalAccountsApp.dll.config
+E:\Projects\SourceCode\ProgramAnalysis\bin\LocalAccountsApp.dll
+E:\Projects\SourceCode\ProgramAnalysis\bin\LocalAccountsApp.pdb
+E:\Projects\SourceCode\ProgramAnalysis\bin\Antlr3.Runtime.dll
+E:\Projects\SourceCode\ProgramAnalysis\bin\EntityFramework.dll
+E:\Projects\SourceCode\ProgramAnalysis\bin\EntityFramework.SqlServer.dll
+E:\Projects\SourceCode\ProgramAnalysis\bin\ExifMetadata.dll
+E:\Projects\SourceCode\ProgramAnalysis\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Projects\SourceCode\ProgramAnalysis\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Projects\SourceCode\ProgramAnalysis\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Projects\SourceCode\ProgramAnalysis\bin\Microsoft.Owin.dll
+E:\Projects\SourceCode\ProgramAnalysis\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Projects\SourceCode\ProgramAnalysis\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Projects\SourceCode\ProgramAnalysis\bin\Microsoft.Owin.Security.dll
+E:\Projects\SourceCode\ProgramAnalysis\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Projects\SourceCode\ProgramAnalysis\bin\Microsoft.Owin.Security.Google.dll
+E:\Projects\SourceCode\ProgramAnalysis\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Projects\SourceCode\ProgramAnalysis\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Projects\SourceCode\ProgramAnalysis\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Projects\SourceCode\ProgramAnalysis\bin\Microsoft.Web.Infrastructure.dll
+E:\Projects\SourceCode\ProgramAnalysis\bin\Newtonsoft.Json.dll
+E:\Projects\SourceCode\ProgramAnalysis\bin\Owin.dll
+E:\Projects\SourceCode\ProgramAnalysis\bin\System.Net.Http.Formatting.dll
+E:\Projects\SourceCode\ProgramAnalysis\bin\System.Web.Helpers.dll
+E:\Projects\SourceCode\ProgramAnalysis\bin\System.Web.Http.dll
+E:\Projects\SourceCode\ProgramAnalysis\bin\System.Web.Http.Owin.dll
+E:\Projects\SourceCode\ProgramAnalysis\bin\System.Web.Http.WebHost.dll
+E:\Projects\SourceCode\ProgramAnalysis\bin\System.Web.Mvc.dll
+E:\Projects\SourceCode\ProgramAnalysis\bin\System.Web.Optimization.dll
+E:\Projects\SourceCode\ProgramAnalysis\bin\System.Web.Razor.dll
+E:\Projects\SourceCode\ProgramAnalysis\bin\System.Web.WebPages.Deployment.dll
+E:\Projects\SourceCode\ProgramAnalysis\bin\System.Web.WebPages.dll
+E:\Projects\SourceCode\ProgramAnalysis\bin\System.Web.WebPages.Razor.dll
+E:\Projects\SourceCode\ProgramAnalysis\bin\WebGrease.dll
+E:\Projects\SourceCode\ProgramAnalysis\bin\ExifMetadata.pdb
+E:\Projects\SourceCode\ProgramAnalysis\bin\Antlr3.Runtime.pdb
+E:\Projects\SourceCode\ProgramAnalysis\bin\Microsoft.Owin.xml
+E:\Projects\SourceCode\ProgramAnalysis\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Projects\SourceCode\ProgramAnalysis\bin\Microsoft.Owin.Security.xml
+E:\Projects\SourceCode\ProgramAnalysis\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Projects\SourceCode\ProgramAnalysis\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Projects\SourceCode\ProgramAnalysis\bin\Microsoft.Owin.Security.Google.xml
+E:\Projects\SourceCode\ProgramAnalysis\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Projects\SourceCode\ProgramAnalysis\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Projects\SourceCode\ProgramAnalysis\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Projects\SourceCode\ProgramAnalysis\bin\Newtonsoft.Json.xml
+E:\Projects\SourceCode\ProgramAnalysis\bin\System.Net.Http.Formatting.xml
+E:\Projects\SourceCode\ProgramAnalysis\bin\System.Web.Helpers.xml
+E:\Projects\SourceCode\ProgramAnalysis\bin\System.Web.Http.xml
+E:\Projects\SourceCode\ProgramAnalysis\bin\System.Web.Http.Owin.xml
+E:\Projects\SourceCode\ProgramAnalysis\bin\System.Web.Http.WebHost.xml
+E:\Projects\SourceCode\ProgramAnalysis\bin\System.Web.Mvc.xml
+E:\Projects\SourceCode\ProgramAnalysis\bin\System.Web.Razor.xml
+E:\Projects\SourceCode\ProgramAnalysis\bin\System.Web.WebPages.xml
+E:\Projects\SourceCode\ProgramAnalysis\bin\System.Web.WebPages.Deployment.xml
+E:\Projects\SourceCode\ProgramAnalysis\bin\System.Web.WebPages.Razor.xml
+E:\Projects\SourceCode\ProgramAnalysis\bin\System.Web.Optimization.xml
+E:\Projects\SourceCode\ProgramAnalysis\bin\EntityFramework.xml
+E:\Projects\SourceCode\ProgramAnalysis\bin\EntityFramework.SqlServer.xml
+E:\Projects\SourceCode\ProgramAnalysis\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Projects\SourceCode\ProgramAnalysis\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Projects\SourceCode\ProgramAnalysis\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Projects\SourceCode\ProgramAnalysis\obj\Debug\ProgramAnalysis.csprojResolveAssemblyReference.cache
+E:\Projects\SourceCode\ProgramAnalysis\obj\Debug\LocalAccountsApp.dll
+E:\Projects\SourceCode\ProgramAnalysis\obj\Debug\LocalAccountsApp.pdb
