@@ -18,6 +18,7 @@ namespace ProgramAnalysis
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
+            ControllerBuilder.Current.DefaultNamespaces.Add("ReportSales.Controllers");
         }
     }
 }

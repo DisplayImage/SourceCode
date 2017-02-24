@@ -20,6 +20,7 @@
     <IISExpressAnonymousAuthentication />
     <IISExpressWindowsAuthentication />
     <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -2572,6 +2573,7 @@
     <Content Include="Views\Home\View1.cshtml" />
     <Content Include="Views\Home\XuLy.cshtml" />
     <Content Include="Views\Shared\_KAdminLayout.cshtml" />
+    <Content Include="Views\TestReport\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -2583,6 +2585,10 @@
     <ProjectReference Include="..\ExifMetadata\ExifMetadata.csproj">
       <Project>{abd4e13c-1a47-4082-8d77-8f1e9312b1fa}</Project>
       <Name>ExifMetadata</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ReportSales\ReportSales.csproj">
+      <Project>{8661ca5a-420c-4d6a-9cca-3cd53fd45814}</Project>
+      <Name>ReportSales</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
